@@ -1,6 +1,8 @@
      @font-face {
         font-family:"NamKhone Web Pro";
-        src: url("https://saosu-mp.github.io/font/NamKhoneWebPro/NamKhoneWebPro.woff") format("woff"),
-             url("https://saosu-mp.github.io/font/NamKhoneWebPro/NamKhoneWebPro.woff2") format("woff2"),
-             url("https://saosu-mp.github.io/font/NamKhoneWebPro/NamKhoneWebPro.ttf") format("ttf");
+          src: url("https://github.io/khurkham/allfonts/allfonts/NamTengWebPro.woff2) format("woff2");
+               url("https://github.io/khurkham/allfonts/allfonts/NamTengWebPro.woff) format("woff");
+               url("https://github.io/khurkham/allfonts/allfonts/NamTengWebPro.ttf) format("ttf");
+               url("https://github.io/khurkham/allfonts/allfonts/NamTengWebPro.svg) format("svg");
+               url("https://github.io/khurkham/allfonts/allfonts/NamTengWebPro.eot) format("eot");
       }
