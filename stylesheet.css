@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'NamTeng Web Pro';
+    src: url('NamTengWebPro.eot');
+    src: url('NamTengWebPro.eot?#iefix') format('embedded-opentype'),
+        url('NamTengWebPro.woff2') format('woff2'),
+        url('NamTengWebPro.woff') format('woff'),
+        url('NamTengWebPro.ttf') format('truetype'),
+        url('NamTengWebPro.svg#NamTengWebPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
