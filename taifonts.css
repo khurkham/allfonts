@@ -1,9 +1,9 @@
      @font-face {
         font-family:"NamTeng Web Pro";
-          src: url("https://khurkham.github.io/allfonts/blob/allfonts/NamTengWebPro.woff2) format("woff2");
-               url("https://khurkham.github.io/allfonts/blob/allfonts/NamTengWebPro.woff) format("woff");
-               url("https://khurkham.github.io/allfonts/blob/allfonts/NamTengWebPro.ttf) format("ttf");
-               url("https://khurkham.github.io/allfonts/blob/allfonts/NamTengWebPro.svg) format("svg");
-               url("https://khurkham.github.io/allfonts/blob/allfonts/NamTengWebPro.eot) format("eot");
+          src: url("https://khurkham.github.io/allfonts/NamTengWebPro.woff2) format("woff2");
+               url("https://khurkham.github.io/allfonts/NamTengWebPro.woff) format("woff");
+               url("https://khurkham.github.io/allfonts/NamTengWebPro.ttf) format("ttf");
+               url("https://khurkham.github.io/allfonts/NamTengWebPro.svg) format("svg");
+               url("https://khurkham.github.io/allfonts/NamTengWebPro.eot) format("eot");
                    
       }
