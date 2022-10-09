@@ -33,7 +33,7 @@ div {
 ဢွင်ႈတီႈ font-family: လႄႈ တီႈၸုမ်းၾွၼ်ႉ sans-serif ၼၼ်ႉ ဢဝ်ၸိုဝ်ႈၸိုဝ်ႈၾွၼ်ႉ ဢၼ်ၸဝ်ႈၵဝ်ႇၶႂ်ႈၸႂ်ႉၼၼ်ႉ ၵႂႃႇဝၢင်းသႂ်ႇၸွမ်း။
 ပိူင်တႅၵ်ႈမၼ်းတႃႇၾွၼ်ႉ NamTeng Web Pro မိူၼ်ၼင်ႇတႂ်ႈၼႆႉ -
 font-family: NamTeng Web Pro,  လႄႈ  NamTeng Web Pro, sans-serif
-code---<link href='https://khurkham.github.io/allfonts/stylesheet.css' rel='stylesheet'/>---
+code---link href='https://khurkham.github.io/allfonts/stylesheet.css' rel='stylesheet'---
 
 </body>
 </html>
